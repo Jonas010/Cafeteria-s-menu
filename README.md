@@ -1,4 +1,4 @@
 # Cafeteria-s-menu
-Apenas um site para menu de cafeteria que fiz para treinar a creatividade.
 
-Pode não parecer algo grande,mas aprendi bastante com esse projeto pessoal.
+Only a coffee shop menu that i did to train my creativity
+May not seem a great thing,but i learned soo much with this pessoal project.
